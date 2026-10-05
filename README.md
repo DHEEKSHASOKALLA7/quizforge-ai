@@ -307,6 +307,4 @@ Dockerfile, docker-compose.yml, .github/workflows/ci.yml
 
 ---
 
-## Resume bullet (fill in only with numbers you measured)
 
-> **QuizForge AI**: Built a real-time quiz platform (Node.js, Socket.IO, Redis, PostgreSQL) with source-grounded AI question generation from uploaded documents, server-authoritative scoring, a Redis sorted-set leaderboard and cross-server messaging, and AI-generated teaching insights. Load-tested with **[N]** concurrent players at **[X] ms** p95 answer latency.
